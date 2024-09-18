@@ -1,0 +1,43 @@
+[
+    {
+      "title": "cielo TV",
+      "src": "http://51.81.106.147:5080//LiveApp//streams//cielotv.m3u8",
+      "poster": "https://www.udrop.com/cache/plugins/filepreviewer/1346872/79dcd7bc4b567fb0aba00cad3f6092a5ecf35e73d99f0d4582278dcbe177a1f4/160x134_middle.jpg"
+    },
+    {
+      "title": "Colon Vision",
+      "src": "http://51.81.106.147:5080/LiveApp/streams/cvision.m3u8",
+      "poster": "https://www.udrop.com/cache/plugins/filepreviewer/1346872/79dcd7bc4b567fb0aba00cad3f6092a5ecf35e73d99f0d4582278dcbe177a1f4/160x134_middle.jpg"
+    },
+    {
+      "title": "ESTRELLAS DE ACCION",
+      "src": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8",
+      "poster": "https://www.udrop.com/cache/plugins/filepreviewer/1346872/79dcd7bc4b567fb0aba00cad3f6092a5ecf35e73d99f0d4582278dcbe177a1f4/160x134_middle.jpg"
+    },
+    {
+      "title": "COMEDIA CENTRAL",
+      "src": "http://168.227.22.18:1935/live/mobile-001/playlist.m3u8",
+      "poster": "https://www.udrop.com/cache/plugins/filepreviewer/1346872/79dcd7bc4b567fb0aba00cad3f6092a5ecf35e73d99f0d4582278dcbe177a1f4/160x134_middle.jpg"
+    },
+    {
+        "title": "cielo TV",
+        "src": "http://51.81.106.147:5080//LiveApp//streams//cielotv.m3u8",
+        "poster": "https://www.udrop.com/cache/plugins/filepreviewer/1346872/79dcd7bc4b567fb0aba00cad3f6092a5ecf35e73d99f0d4582278dcbe177a1f4/160x134_middle.jpg"
+      },
+      {
+        "title": "Colon Vision",
+        "src": "http://51.81.106.147:5080/LiveApp/streams/cvision.m3u8",
+        "poster": "https://www.udrop.com/cache/plugins/filepreviewer/1346872/79dcd7bc4b567fb0aba00cad3f6092a5ecf35e73d99f0d4582278dcbe177a1f4/160x134_middle.jpg"
+      },
+      {
+        "title": "ESTRELLAS DE ACCION",
+        "src": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8",
+        "poster": "https://www.udrop.com/cache/plugins/filepreviewer/1346872/79dcd7bc4b567fb0aba00cad3f6092a5ecf35e73d99f0d4582278dcbe177a1f4/160x134_middle.jpg"
+      },
+      {
+        "title": "COMEDIA CENTRAL",
+        "src": "http://168.227.22.18:1935/live/mobile-001/playlist.m3u8",
+        "poster": "https://www.udrop.com/cache/plugins/filepreviewer/1346872/79dcd7bc4b567fb0aba00cad3f6092a5ecf35e73d99f0d4582278dcbe177a1f4/160x134_middle.jpg"
+      }
+  ]
+  
